@@ -1,0 +1,5 @@
+/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/CMakeFiles/Sympathetic.dir
+/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/CMakeFiles/edit_cache.dir
+/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/CMakeFiles/rebuild_cache.dir
+/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/include/vstsdk/CMakeFiles/edit_cache.dir
+/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/include/vstsdk/CMakeFiles/rebuild_cache.dir

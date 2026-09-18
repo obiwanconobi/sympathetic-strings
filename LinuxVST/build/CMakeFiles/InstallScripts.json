@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/cmake_install.cmake",
+		"/home/conner/Documents/Code/sympathetic-strings/LinuxVST/build/include/vstsdk/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

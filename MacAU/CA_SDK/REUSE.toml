@@ -1,0 +1,19 @@
+version = 1
+
+[[annotations]]
+path = "CoreAudio/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Copyright (C) 2014 Apple Inc. All rights reserved."
+SPDX-License-Identifier = "AML"
+
+[[annotations]]
+path = "CMakeLists.txt"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright (C) 2025 The Qt Company Ltd."
+SPDX-License-Identifier = "BSD-3-Clause"
+
+[[annotations]]
+path = "Readme.rtf"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright (C) 2014 Apple Inc. All rights reserved."
+SPDX-License-Identifier = "AML"
